@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/colzone/static/css/main.d4d263b0.chunk.css",
+    "main.js": "/colzone/static/js/main.7c9873a7.chunk.js",
+    "main.js.map": "/colzone/static/js/main.7c9873a7.chunk.js.map",
+    "runtime-main.js": "/colzone/static/js/runtime-main.16d1b8ce.js",
+    "runtime-main.js.map": "/colzone/static/js/runtime-main.16d1b8ce.js.map",
+    "static/css/2.c05fe3be.chunk.css": "/colzone/static/css/2.c05fe3be.chunk.css",
+    "static/js/2.03fec347.chunk.js": "/colzone/static/js/2.03fec347.chunk.js",
+    "static/js/2.03fec347.chunk.js.map": "/colzone/static/js/2.03fec347.chunk.js.map",
+    "index.html": "/colzone/index.html",
+    "precache-manifest.ce8247a7b31b85823514b4d20b07f33b.js": "/colzone/precache-manifest.ce8247a7b31b85823514b4d20b07f33b.js",
+    "service-worker.js": "/colzone/service-worker.js",
+    "static/css/2.c05fe3be.chunk.css.map": "/colzone/static/css/2.c05fe3be.chunk.css.map",
+    "static/css/main.d4d263b0.chunk.css.map": "/colzone/static/css/main.d4d263b0.chunk.css.map",
+    "static/js/2.03fec347.chunk.js.LICENSE": "/colzone/static/js/2.03fec347.chunk.js.LICENSE",
+    "static/media/bg.svg": "/colzone/static/media/bg.77428cd4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16d1b8ce.js",
+    "static/css/2.c05fe3be.chunk.css",
+    "static/js/2.03fec347.chunk.js",
+    "static/css/main.d4d263b0.chunk.css",
+    "static/js/main.7c9873a7.chunk.js"
+  ]
+}
