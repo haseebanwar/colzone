@@ -6,7 +6,7 @@ Clone of MaterialUI and FlatUI Colors
 
 > Deployed to GitHub Pages
 
-Get a quick demo of the application [here](https://haseeb99.github.io/colzone/).
+Get a quick demo of the application [here](https://haseebanwar.github.io/colzone/).
 
 ## Clone and test on browser
 
